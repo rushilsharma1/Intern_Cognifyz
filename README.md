@@ -1,4 +1,4 @@
-# Intern_Cognifyz # cognifyz technology
+# Intern_Cognifyz
 LEVEL 1
 
 ☑  Top Cuisines  
